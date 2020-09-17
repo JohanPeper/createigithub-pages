@@ -1,1 +1,1 @@
-# create-igithub-pages
+# create-github-pages
